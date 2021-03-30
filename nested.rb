@@ -14,7 +14,7 @@ programmer_hash =
     }
   }
 
-def hopper
+def hopper(programmer_hash)
 	programmer_hash = 
 	  {
  		  :grace_hopper => {
